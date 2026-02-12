@@ -8,7 +8,7 @@ ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 * **Honors:** Braddock First-year Merit Scholarship Award
 * **Advisor:** Dr. Kara Fikrig
 
-**University of North Carolina at Chapel Hill ** | [Chapel Hill, NC
+**University of North Carolina at Chapel Hill** | Chapel Hill, NC
 *Bachelor of Science in Public Health, Biostatistics Concentration* | August 2021 - May 2025
 * **Honors:** Highest Distinction, Thesis with Highest Honors, Hinkle Carolina Scholarship, Honors Carolina
 
