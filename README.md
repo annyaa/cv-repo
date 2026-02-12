@@ -1,4 +1,4 @@
 # cv-repo
-MCIBS 554 REPO
+Online CV version
 
 A site for testing CV deployment
