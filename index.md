@@ -2,7 +2,7 @@
 State College, PA, 16801 | 984-322-9909
 ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 
-# []() use this to add an image
+# ![](https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg)
 
 ## EDUCATION
 **Pennsylvania State University** | State College, PA
