@@ -2,6 +2,8 @@
 State College, PA, 16801 | 984-322-9909
 ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 
+![](https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg)
+
 ## EDUCATION
 **Pennsylvania State University** | State College, PA
 *PhD in Molecular, Cellular and Integrative Biosciences* | August 2025 - May 2030
