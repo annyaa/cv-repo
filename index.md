@@ -17,67 +17,35 @@ ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 ---
 
 ## RESEARCH EXPERIENCE
-**Graduate Research Assistant** | [Department Name], [University] | [Year] – Present
-* Investigated the mechanisms of [Specific Biological Process] using [Key Technique/Model System].
-* Designed and executed experiments involving [e.g., CRISPR-Cas9 gene editing or RNA-seq].
-* Analyzed large-scale datasets using [R/Python] to identify [Key Finding].
-* Collaborated with a multidisciplinary team to publish findings in [Journal Name].
+**Graduate Research Assistant** | Department of Entomology, Pennsylvania State University] | November 2025 – Present
+* Investigated Aedes mosquito invasion dynamics in Pennsylvania
 
-**Undergraduate Research Assistant** | [Lab Name], [University] | [Year] – [Year]
-* Assisted in [Project Topic], focusing on [Specific Task].
-* Maintained [Cell lines/Mouse colonies/Bacterial cultures].
+**Rotation Student** | Department of Veterinary and Biomedical Sciences, Pennsylvania State University] | October 2025 - November 2025
+* Investigated associations between Vitamin D and the maternal microbiome
 
-**Graduate Research Assistant** | [Department Name], [University] | [Year] – Present
-* Investigated the mechanisms of [Specific Biological Process] using [Key Technique/Model System].
-* Designed and executed experiments involving [e.g., CRISPR-Cas9 gene editing or RNA-seq].
-* Analyzed large-scale datasets using [R/Python] to identify [Key Finding].
-* Collaborated with a multidisciplinary team to publish findings in [Journal Name].
+**Rotation Student* | Department of Biochemistry and Molecular Biology], [Pennsylvania State University] | August 2025 – September 2025
+* Investigated microbiome associations of Irritable Bowel Disease to inform synthetic fecal microbiota transplant formulations
 
-**Graduate Research Assistant** | [Department Name], [University] | [Year] – Present
-* Investigated the mechanisms of [Specific Biological Process] using [Key Technique/Model System].
-* Designed and executed experiments involving [e.g., CRISPR-Cas9 gene editing or RNA-seq].
-* Analyzed large-scale datasets using [R/Python] to identify [Key Finding].
-* Collaborated with a multidisciplinary team to publish findings in [Journal Name].
+**Research Intern** | Department of Biological Engineering | Massachusetts Institute of Technology | June 2024 – August 2024
+* Investigated the use of antioxidants as a strategy to prevent antimalarial resistance by reducing oxidative stress in malaria parasites (Advisor: Dr Jacquin Niles)
+* Monitored luciferase-expressing Plasmodium strains for the influence of antioxidant detoxification on mutagenesis and the propensity for atovaquone resistance
+* Produced an abstract and delivered a poster presentation at the MSRP Research Forum
 
----
 
-## TECHNICAL SKILLS
-* **Molecular Biology:** PCR/qPCR, Molecular Cloning, CRISPR/Cas9, Western Blotting, ELISA.
-* **Cell Biology:** Mammalian Cell Culture, Confocal Microscopy, Flow Cytometry (FACS).
-* **Computational/Bioinformatics:** R (Bioconductor, Tidyverse), Python, QGIS, Prism.
-* **Genomics:** Next-Generation Sequencing (NGS) library prep, Sequence Alignment.
+**Research Intern** | Johns Hopkins School of Medicine | May 2023 – July 2023
+* Investigated the use of CRISPR Cas 9 for the insertion of the red fluorescent protein wrmScarlet in the ifet-1 gene of C. elegans (Advisor: Dr Geraldine Seydoux)
+* Implemented techniques like PCR, microscopy, bacterial transformation, plasmid extraction and miniprep
+* Delivered a poster presentation and moderated the CARES research symposium
+
+**Undergraduate Research Assistant** | Spatial Health Research Group, Institute for Global Health & Infectious Diseases, UNC Chapel Hill | February 2023 – May 2025
+* Completed a senior honors thesis to examine the association between host HLA supertype and anti-CSP antibody levels with/without RTS,S malaria vaccine and booster (Advisors: Dr Michael Emch, Dr Bonnie Shook-Sa, Dr Varun Goel)
+* Examined the relationship between HLA-induced changes in antibody levels and malaria incidence following RTS,S vaccination 
+* Investigated the spatio-temporal epidemiology of the RTS,S malaria vaccine 
+
 
 ---
 
-## PUBLICATIONS
-* **[Your Last Name, Initial]**, [Co-author Last Name, Initial]. (Year). "[Title of Published Paper]." *Journal Name*, Volume(Issue), Pages. [DOI Link]
-* [Co-author], **[Your Last Name, Initial]**. (Year). "[Title of Paper]." *In Preparation/Under Review*.
-
----
-
-## PRESENTATIONS
-* **Oral Presentation:** "[Title of Talk]." [Conference Name], [Location/Virtual]. [Year].
-* **Poster Presentation:** "[Title of Poster]." [Symposium Name], [University]. [Year].
-
----
-
-## TEACHING & MENTORSHIP
-**Graduate Teaching Assistant** | [Course Title] | [Semester, Year]
-* Led laboratory sections for [Number] undergraduate students.
-* Explained complex concepts in [e.g., Molecular Genetics] and graded technical reports.
-
-**Undergraduate Mentor** | [Lab Name] | [Year] – Present
-* Trained two undergraduate students in basic molecular biology protocols and safety.
-
----
-
-## AWARDS & FELLOWSHIPS
-* [Name of Grant/Fellowship], [Funding Agency] | [Year]
-* [Name of Travel Award], [Organization] | [Year]
-* [Outstanding Teaching/Research Award] | [University] | [Year]
-
----
-
-## PROFESSIONAL AFFILIATIONS
-* Member, American Society for Cell Biology (ASCB)
-* Member, American Association for the Advancement of Science (AAAS)
+## SKILLS
+* ** Biological:** CRISPR, Microscopy, Bacterial transformation, Plasmid Extraction, Miniprep, PCR and gel, Genotyping PCR
+* **Computational/Bioinformatics:** R, SAS, ArcGIS, Python & Shell Scripting, Microsoft Suite, Adobe Suite
+* **Languages:** English, French 
