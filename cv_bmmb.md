@@ -3,9 +3,8 @@ State College, PA, 16801 | 9843229909
 ays6029@psu.edu | [LinkedIn Profile] | [ORCID ID/Portfolio Link]
 
 ## EDUCATION
-**[Pennsylvania State University]** | [State College, PA]
-*PhD in Molecular, Cellular and Integrative Biosciences* | [May, 2030]
-* **Dissertation:** "[Title of your research project]"
+**Pennsylvania State University** | State College, PA
+*PhD in Molecular, Cellular and Integrative Biosciences* | August 2025 - May 2030
 * **Advisor:** Dr. Kara Fikrig
 
 **[Undergraduate University Name]** | [City, State]
