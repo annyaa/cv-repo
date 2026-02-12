@@ -1,16 +1,16 @@
 # Ann Safo, B.S.
-State College, PA, 16801 | 9843229909
-ays6029@psu.edu | [LinkedIn Profile] | [ORCID ID/Portfolio Link]
+State College, PA, 16801 | 984-322-9909
+ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 
 ## EDUCATION
 **Pennsylvania State University** | State College, PA
 *PhD in Molecular, Cellular and Integrative Biosciences* | August 2025 - May 2030
+* **Honors:** Braddock First-year Merit Scholarship Award
 * **Advisor:** Dr. Kara Fikrig
 
-**[Undergraduate University Name]** | [City, State]
-*Bachelor of Science in Biology/Biochemistry* | [Month, Year]
-* **GPA:** [3.X]/4.0
-* **Honors:** [e.g., Magna Cum Laude, Dean’s List]
+**University of North Carolina at Chapel Hill ** | [Chapel Hill, NC
+*Bachelor of Science in Public Health, Biostatistics Concentration* | August 2021 - May 2025
+* **Honors:** Highest Distinction, Thesis with Highest Honors, Hinkle Carolina Scholarship, Honors Carolina
 
 ---
 
@@ -24,6 +24,18 @@ ays6029@psu.edu | [LinkedIn Profile] | [ORCID ID/Portfolio Link]
 **Undergraduate Research Assistant** | [Lab Name], [University] | [Year] – [Year]
 * Assisted in [Project Topic], focusing on [Specific Task].
 * Maintained [Cell lines/Mouse colonies/Bacterial cultures].
+
+**Graduate Research Assistant** | [Department Name], [University] | [Year] – Present
+* Investigated the mechanisms of [Specific Biological Process] using [Key Technique/Model System].
+* Designed and executed experiments involving [e.g., CRISPR-Cas9 gene editing or RNA-seq].
+* Analyzed large-scale datasets using [R/Python] to identify [Key Finding].
+* Collaborated with a multidisciplinary team to publish findings in [Journal Name].
+
+**Graduate Research Assistant** | [Department Name], [University] | [Year] – Present
+* Investigated the mechanisms of [Specific Biological Process] using [Key Technique/Model System].
+* Designed and executed experiments involving [e.g., CRISPR-Cas9 gene editing or RNA-seq].
+* Analyzed large-scale datasets using [R/Python] to identify [Key Finding].
+* Collaborated with a multidisciplinary team to publish findings in [Journal Name].
 
 ---
 
