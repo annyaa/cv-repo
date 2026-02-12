@@ -23,7 +23,7 @@ ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 **Rotation Student** | Department of Veterinary and Biomedical Sciences, Pennsylvania State University] | October 2025 - November 2025
 * Investigated associations between Vitamin D and the maternal microbiome
 
-**Rotation Student* | Department of Biochemistry and Molecular Biology], [Pennsylvania State University] | August 2025 – September 2025
+**Rotation Student** | Department of Biochemistry and Molecular Biology], [Pennsylvania State University] | August 2025 – September 2025
 * Investigated microbiome associations of Irritable Bowel Disease to inform synthetic fecal microbiota transplant formulations
 
 **Research Intern** | Department of Biological Engineering | Massachusetts Institute of Technology | June 2024 – August 2024
@@ -46,6 +46,6 @@ ays6029@psu.edu | linkedin.com/in/ann-safo-b17b03252
 ---
 
 ## SKILLS
-* ** Biological:** CRISPR, Microscopy, Bacterial transformation, Plasmid Extraction, Miniprep, PCR and gel, Genotyping PCR
+* **Biological:** CRISPR, Microscopy, Bacterial transformation, Plasmid Extraction, Miniprep, PCR and gel, Genotyping PCR
 * **Computational/Bioinformatics:** R, SAS, ArcGIS, Python & Shell Scripting, Microsoft Suite, Adobe Suite
 * **Languages:** English, French 
