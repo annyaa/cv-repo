@@ -1,0 +1,127 @@
+---
+title: "Creating This Website with Quarto"
+author: "Ann Safo"
+date: "2026-02-17"
+categories: [quarto, website, blogging, github-actions]
+description: "How I built this personal website and blog using Quarto and automated deployment with GitHub Actions"
+---
+
+## Why Quarto?
+
+When I decided to create a personal website to showcase my CV and share my thoughts through blog posts, I explored several options. I previously had a simple Jekyll-based site that displayed my CV, but I wanted something more flexible and modern that could support blogging alongside my academic profile.
+
+After researching various static site generators, I chose **Quarto** for several compelling reasons:
+
+1. **Built for scientific and technical content**: As a PhD student in Molecular, Cellular and Integrative Biosciences, I need a platform that handles scientific writing naturally, including support for citations, equations, and code.
+
+2. **Unified authoring**: Quarto allows me to write everything in Markdown (.qmd files) with seamless integration of code, figures, and text - perfect for future posts about computational biology and data analysis.
+
+3. **Modern and actively maintained**: Developed by Posit (formerly RStudio), Quarto is the next generation of R Markdown with excellent documentation and active community support.
+
+4. **Easy deployment**: GitHub Actions integration makes it simple to automatically deploy to GitHub Pages whenever I push changes.
+
+## Setting Up the Site
+
+### Project Structure
+
+Here's how I organized my Quarto website:
+
+```
+cv-repo/
+├── _quarto.yml           # Main configuration file
+├── index.qmd             # Homepage with CV
+├── blog.qmd              # Blog listing page
+├── posts/                # Blog posts directory
+│   ├── _metadata.yml     # Shared post configuration
+│   └── 2026-02-17-creating-this-website/
+│       └── index.qmd     # This post!
+└── .github/
+    └── workflows/
+        └── publish.yml    # GitHub Actions workflow
+```
+
+### Configuration Highlights
+
+The `_quarto.yml` file is the heart of the site configuration. I set up:
+
+- A clean **cosmo theme** that looks professional for an academic CV
+- A **navigation bar** linking to the Home (CV) and Blog pages
+- **Search functionality** to help visitors find content
+- A **footer** with my GitHub link
+- **RSS feed** support for blog subscribers
+
+### Migrating My CV
+
+Converting my CV from Jekyll to Quarto was straightforward:
+
+1. Renamed `index.md` to `index.qmd` (Quarto Markdown)
+2. Added YAML front matter with a proper title
+3. Integrated a **listing component** to show my 3 most recent blog posts right on the homepage
+4. Cleaned up formatting (removed some stray brackets in the original)
+
+The CV now displays my education, research experience, and skills in a clean, readable format while also showcasing my latest writing.
+
+## Blog Setup
+
+### How Blog Posts Work
+
+Each blog post lives in its own subdirectory under `posts/` with an `index.qmd` file. This approach keeps posts organized and makes it easy to include images or other assets alongside each post.
+
+The `posts/_metadata.yml` file sets default configuration for all posts:
+
+- `freeze: true` - Caches execution results, which speeds up rendering
+- `author: "Ann Safo"` - Sets my name as the default author
+
+### Listing Pages
+
+I created two listing pages:
+
+1. **Homepage listing** (`index.qmd`): Shows the 3 most recent posts to give visitors a quick preview
+2. **Full blog listing** (`blog.qmd`): Displays all posts sorted by date with category filters
+
+Quarto's listing feature automatically generates these pages from the post metadata, creating a beautiful, functional blog without any custom code.
+
+## GitHub Actions Deployment
+
+The real magic happens with GitHub Actions, which automatically builds and deploys my site whenever I push changes to the main branch.
+
+### The Workflow
+
+My `.github/workflows/publish.yml` file defines a workflow that:
+
+1. **Checks out** the repository code
+2. **Sets up Quarto** using the official Quarto action
+3. **Renders** the site to the `_site/` directory
+4. **Uploads** the rendered site as an artifact
+5. **Deploys** to GitHub Pages
+
+### Enabling GitHub Pages
+
+To make this work, I configured my repository settings:
+
+1. Go to Settings → Pages
+2. Set Source to "GitHub Actions"
+3. Ensure proper workflow permissions are enabled
+
+Now, every push to main triggers an automatic deployment. Within a few minutes, my changes are live!
+
+## What's Next?
+
+Now that the infrastructure is in place, I'm excited to start blogging about:
+
+- My PhD research on mosquito invasion dynamics
+- Computational biology techniques and bioinformatics workflows
+- Data analysis tips in R and Python
+- Reflections on graduate school and scientific research
+
+The beauty of Quarto is that I can easily include code, figures, and interactive visualizations in future posts, making it perfect for sharing my computational work.
+
+## Resources
+
+If you're interested in creating your own Quarto website, here are some helpful resources:
+
+- [Quarto Documentation](https://quarto.org/)
+- [Quarto Websites Guide](https://quarto.org/docs/websites/)
+- [Quarto Publishing to GitHub Pages](https://quarto.org/docs/publishing/github-pages.html)
+
+Feel free to check out the [source code for this site](https://github.com/annsafo/cv-repo) on GitHub to see exactly how everything is configured!

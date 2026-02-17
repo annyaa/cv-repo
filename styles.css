@@ -1,0 +1,67 @@
+/* Custom styles for Ann Safo's website */
+
+/* Improve readability */
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Style the CV header */
+h1.title {
+  border-bottom: 2px solid #0077b6;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Style section headers */
+h2 {
+  color: #0077b6;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Adjust image styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Style the Penn State shield */
+img[src*="penn-state-shield"] {
+  max-width: 150px;
+  display: block;
+  margin: 1rem auto;
+}
+
+/* Improve list styling */
+ul {
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Style blog post cards */
+.quarto-post {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-left: 3px solid #0077b6;
+}
+
+/* Style category badges */
+.category {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  background-color: #e9ecef;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
+}
