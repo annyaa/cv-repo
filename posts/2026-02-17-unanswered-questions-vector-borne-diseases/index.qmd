@@ -1,0 +1,165 @@
+---
+title: "Top 10 Unanswered Questions in Vector-Borne Disease Research"
+author: "Ann Safo"
+date: "2026-02-17"
+categories: [research, vector-borne diseases, mosquitoes, public health]
+description: "An exploration of the most pressing unanswered questions in vector-borne disease research, with emphasis on mosquito-borne pathogens"
+---
+
+## Introduction
+
+Vector-borne diseases account for more than 17% of all infectious diseases worldwide, causing over 700,000 deaths annually according to the World Health Organization. Mosquitoes alone are responsible for transmitting pathogens that cause malaria, dengue, Zika, chikungunya, yellow fever, and West Nile virus, among others. Despite decades of research and significant advances in our understanding of vector biology and disease transmission, many fundamental questions remain unanswered.
+
+As a PhD student studying Aedes mosquito invasion dynamics, I am constantly reminded of how much we still do not know about the vectors that threaten global health. This post explores ten of the most pressing unanswered questions in vector-borne disease research, with particular emphasis on mosquito-borne pathogens.
+
+## 1. What Drives Mosquito Species Invasions and Establishment Success?
+
+Invasive mosquito species like *Aedes albopictus* (Asian tiger mosquito) and *Aedes aegypti* (yellow fever mosquito) have expanded their ranges dramatically over the past century. *Aedes albopictus* has now established populations on every continent except Antarctica, while *Aedes aegypti* continues to expand into temperate regions previously thought unsuitable.
+
+**Unanswered Questions:**
+- What environmental and biological factors determine whether an introduced mosquito population will successfully establish?
+- How do invasive mosquitoes interact with native species, and what are the long-term ecological consequences?
+- Can we predict which regions are most vulnerable to invasion before mosquitoes arrive?
+- What role does rapid evolution play in helping mosquitoes adapt to new environments?
+
+Understanding invasion dynamics is critical for developing early warning systems and targeted intervention strategies. My current research addresses some of these questions by examining *Aedes* mosquito invasion patterns in Pennsylvania, but much work remains to be done.
+
+## 2. How Will Climate Change Alter Vector-Borne Disease Distributions?
+
+Climate change is already affecting vector distributions and disease transmission patterns, but our predictive models remain limited. Temperature, precipitation, and humidity all influence mosquito survival, reproduction, and pathogen development rates, yet the interactions between these factors are complex and nonlinear.
+
+**Unanswered Questions:**
+- How will changing climate patterns affect the geographic distribution of mosquito-borne diseases over the next 50-100 years?
+- What is the relative importance of temperature versus other climate variables in determining transmission potential?
+- How will extreme weather events (floods, droughts, hurricanes) impact vector populations and disease outbreaks?
+- Can mosquitoes and pathogens adapt quickly enough to keep pace with rapid climate change?
+
+Recent studies suggest that climate change may expand the range of diseases like dengue and malaria into previously unaffected temperate regions, but the magnitude and timing of these changes remain uncertain.
+
+## 3. What Mechanisms Govern Vector Competence?
+
+Vector competence—the ability of a mosquito or other arthropod to acquire, maintain, and transmit a pathogen—varies dramatically among vector species and even among populations within a species. Understanding why some mosquitoes are highly competent vectors while others are not is fundamental to disease ecology.
+
+**Unanswered Questions:**
+- What genetic factors determine vector competence, and how do they interact with environmental conditions?
+- How does the mosquito microbiome influence susceptibility to pathogen infection?
+- What role do mosquito immune responses play in limiting or facilitating pathogen transmission?
+- Can we identify molecular targets for interventions that reduce vector competence?
+
+Recent work has shown that the mosquito microbiome, particularly bacteria like *Wolbachia*, can dramatically reduce vector competence for viruses like dengue and Zika. However, we still lack a comprehensive understanding of the mechanisms involved and how to best leverage these interactions for disease control.
+
+## 4. Why Do Some Mosquito-Borne Diseases Cause Explosive Epidemics While Others Remain Endemic?
+
+Dengue, Zika, and chikungunya can cause massive outbreaks affecting thousands to millions of people over short time periods. In contrast, diseases like lymphatic filariasis tend to persist at lower, more stable levels in affected populations.
+
+**Unanswered Questions:**
+- What ecological, immunological, and epidemiological factors determine whether a disease will cause epidemics or remain endemic?
+- How do human movement patterns and urbanization influence epidemic potential?
+- What role does herd immunity play in regulating transmission dynamics of mosquito-borne viruses?
+- Can we better predict when and where the next major outbreak will occur?
+
+The sudden emergence and rapid spread of Zika virus in the Americas (2015-2016) caught the public health community largely unprepared, highlighting our limited ability to forecast epidemic risk.
+
+## 5. How Does Urbanization Impact Vector-Borne Disease Transmission?
+
+More than 55% of the world's population now lives in urban areas, a proportion expected to increase to 68% by 2050. Urban environments create unique ecological conditions that can either amplify or suppress disease transmission.
+
+**Unanswered Questions:**
+- How do urban heat islands, altered water systems, and built environments affect mosquito populations and disease transmission?
+- What role does urban poverty and informal settlements play in creating disease hotspots?
+- How can urban planning and design be optimized to reduce vector breeding sites?
+- What are the most effective and sustainable mosquito control strategies in dense urban environments?
+
+Urban *Aedes aegypti* populations often exploit artificial water containers (tires, buckets, flower pots) for breeding, creating a persistent challenge for control efforts. Understanding how to manage these anthropogenic breeding sites remains a critical gap in urban disease control.
+
+## 6. What Are the Long-Term Health Consequences of Mosquito-Borne Viral Infections?
+
+While we understand the acute symptoms of diseases like dengue and chikungunya, the long-term health impacts remain poorly characterized. Some patients experience chronic pain, fatigue, and neurological symptoms for months or years after initial infection.
+
+**Unanswered Questions:**
+- What proportion of infected individuals develop chronic symptoms, and what factors predict this outcome?
+- What are the mechanisms underlying post-infection syndromes?
+- Do subclinical infections (those without obvious symptoms) have long-term health consequences?
+- How do repeated infections with the same or different pathogens affect long-term health outcomes?
+
+The Zika epidemic revealed that mosquito-borne viruses can cause severe birth defects (microcephaly and other congenital abnormalities), raising questions about whether other mosquito-borne viruses may have unrecognized impacts on fetal development.
+
+## 7. Can We Develop Universal Vaccines or Therapeutics for Mosquito-Borne Diseases?
+
+Despite decades of effort, we still lack effective vaccines for many major mosquito-borne diseases. The most successful vaccine, for yellow fever, was developed in the 1930s. More recent efforts have produced mixed results, with dengue vaccines showing limited efficacy and potential safety concerns.
+
+**Unanswered Questions:**
+- What makes developing vaccines for mosquito-borne viruses so challenging compared to other viral diseases?
+- Can we develop broad-spectrum antivirals effective against multiple arboviruses?
+- Is it possible to create a universal arbovirus vaccine targeting conserved viral features?
+- How can we better leverage human immune responses to natural infections to inform vaccine design?
+
+The complexity of dengue virus, with four distinct serotypes and the risk of antibody-dependent enhancement in secondary infections, has posed particular challenges for vaccine development.
+
+## 8. How Do Co-Infections and Pathogen Interactions Affect Disease Outcomes?
+
+Many regions endemic for one mosquito-borne disease are also endemic for others. Individuals may be simultaneously or sequentially infected with multiple pathogens, yet we understand little about how these co-infections interact.
+
+**Unanswered Questions:**
+- How do co-infections with multiple arboviruses affect disease severity and transmission?
+- Do mosquitoes infected with multiple pathogens show altered vector competence or behavior?
+- How do mosquito-borne diseases interact with other endemic infections (e.g., malaria and helminth co-infections)?
+- Can co-infection patterns inform our understanding of pathogen evolution and virulence?
+
+Recent evidence suggests that prior dengue infection may influence susceptibility to and severity of Zika infection, but the mechanisms remain unclear.
+
+## 9. What Is the True Burden of Asymptomatic Infections?
+
+Many mosquito-borne infections are asymptomatic or cause only mild symptoms that do not prompt medical care. This "silent transmission" can maintain pathogen circulation in populations and complicate surveillance and control efforts.
+
+**Unanswered Questions:**
+- What proportion of infections are truly asymptomatic versus simply undiagnosed?
+- Can asymptomatic individuals transmit pathogens back to mosquitoes at similar rates as symptomatic cases?
+- Do asymptomatic infections provide protective immunity against future infections?
+- How should public health surveillance systems account for asymptomatic transmission?
+
+Studies suggest that 50-80% of dengue and Zika infections may be asymptomatic, meaning reported case counts dramatically underestimate true disease burden.
+
+## 10. How Can We Develop Sustainable and Equitable Vector Control Strategies?
+
+Current vector control approaches rely heavily on insecticides, which face challenges from increasing resistance, environmental concerns, and high costs. Novel approaches including gene drive technology, *Wolbachia* releases, and attractive toxic sugar baits show promise but face regulatory, ethical, and practical hurdles.
+
+**Unanswered Questions:**
+- How can we design integrated vector management strategies that are effective, sustainable, and affordable for resource-limited settings?
+- What are the long-term ecological consequences of novel vector control technologies?
+- How can communities be meaningfully engaged in vector control decision-making and implementation?
+- What regulatory frameworks are needed to govern the release of genetically modified mosquitoes?
+
+The success of *Wolbachia*-based interventions in reducing dengue transmission in field trials is encouraging, but questions remain about scalability, long-term efficacy, and potential unintended consequences.
+
+## Bridging the Knowledge Gaps
+
+Addressing these questions will require interdisciplinary approaches combining entomology, epidemiology, immunology, ecology, genomics, social sciences, and data science. Key priorities include:
+
+1. **Enhanced Surveillance**: Better real-time monitoring of vector populations and disease transmission
+2. **Long-Term Studies**: Following populations over years to understand chronic disease impacts and immune dynamics
+3. **Mechanistic Research**: Laboratory and field studies to understand fundamental vector-pathogen-host interactions
+4. **Predictive Modeling**: Integrating climate, environmental, and social data to forecast disease risk
+5. **Community Engagement**: Involving affected communities in research design and implementation
+6. **Capacity Building**: Training researchers in endemic countries to lead local research efforts
+
+## Conclusion
+
+Vector-borne diseases represent a growing global health threat, particularly as climate change, urbanization, and globalization create conditions favorable for vector expansion and disease emergence. While we have made significant progress in understanding these diseases, major knowledge gaps remain.
+
+As a researcher entering this field, I am excited by the opportunities to contribute to answering these fundamental questions. My work on *Aedes* mosquito invasion dynamics in Pennsylvania addresses questions about what allows mosquitoes to successfully establish in new areas—knowledge that will become increasingly important as climate change continues to shift vector distributions.
+
+The challenges are daunting, but the potential impact of this research is enormous. Every question we answer brings us closer to more effective prevention and control strategies that can reduce the burden of these devastating diseases.
+
+## Further Reading
+
+For those interested in learning more about vector-borne disease research:
+
+- World Health Organization. (2020). Vector-borne diseases. https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases
+- Powell, J. R. (2019). Perspective piece: *Aedes aegypti* genomics—new insights and old challenges. *The American Journal of Tropical Medicine and Hygiene, 101*(5), 951-952.
+- Ryan, S. J., et al. (2019). Global expansion and redistribution of *Aedes*-borne virus transmission risk with climate change. *PLOS Neglected Tropical Diseases, 13*(3), e0007213.
+- Moyes, C. L., et al. (2017). Contemporary status of insecticide resistance in the major *Aedes* vectors of arboviruses infecting humans. *PLOS Neglected Tropical Diseases, 11*(7), e0005625.
+
+---
+
+*What questions in vector-borne disease research do you find most pressing? I welcome discussion and collaboration on these important topics.*
