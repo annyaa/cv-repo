@@ -6,11 +6,11 @@
 
 > A modern, automated personal website showcasing my academic CV and research blog, built with Quarto and deployed via GitHub Actions.
 
-**🌐 Live Site:** [https://annyaa.github.io/cv-repo/](https://annyaa.github.io/cv-repo/)
+**Live Site:** [https://annyaa.github.io/cv-repo/](https://annyaa.github.io/cv-repo/)
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -27,7 +27,7 @@
 
 ---
 
-## 📖 About
+## About
 
 This repository contains the source code for my personal academic website. The site features my curriculum vitae (CV) on the homepage and a blog where I share insights about my PhD research in Molecular, Cellular and Integrative Biosciences, computational biology methods, and graduate school experiences.
 
@@ -39,34 +39,34 @@ This repository contains the source code for my personal academic website. The s
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎓 Professional CV
+### Professional CV
 - Comprehensive overview of education, research experience, and skills
 - Clean, academic-focused design
 - Mobile-responsive layout
 - Printable format
 
-### 📝 Research Blog
+### Research Blog
 - Markdown-based blog posts with scientific content support
 - Category-based organization
 - Recent posts section on homepage
 - Full blog archive with search
 - RSS/Atom feed for subscribers
 
-### 🚀 Automatic Deployment
+### Automatic Deployment
 - GitHub Actions CI/CD pipeline
 - Automatic builds on every push to main
 - Zero-downtime deployments
 - Build status monitoring
 
-### 🔍 Enhanced User Experience
+### Enhanced User Experience
 - Full-text search across all content
 - Dark/light theme support (Cosmo theme)
 - Responsive navigation
 - Fast page loads (static site generation)
 
-### 📊 Scientific Writing Support
+### Scientific Writing Support
 - Code syntax highlighting
 - LaTeX equation support
 - Citation management
@@ -75,7 +75,7 @@ This repository contains the source code for my personal academic website. The s
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -96,7 +96,7 @@ The site will be available at `http://localhost:4200` with live reload enabled.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -129,7 +129,7 @@ This command verifies that Quarto is properly installed and shows available feat
 
 ---
 
-## 💻 Local Development
+## Local Development
 
 ### Basic Commands
 
@@ -189,7 +189,7 @@ quarto preview --port 8080
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 cv-repo/
@@ -225,7 +225,7 @@ cv-repo/
 
 ---
 
-## ✍️ Adding Content
+## Adding Content
 
 ### Creating a New Blog Post
 
@@ -335,7 +335,7 @@ See @fig-id for details.
 
 ---
 
-## 🎨 Customization
+## Customization
 
 ### Changing the Theme
 
@@ -408,7 +408,7 @@ website:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Automatic Deployment (Recommended)
 
@@ -476,7 +476,7 @@ vercel --prod
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -552,7 +552,7 @@ quarto render --debug
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Core Technologies
 
@@ -585,7 +585,7 @@ quarto render --debug
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 Planned features and improvements:
 
@@ -601,9 +601,9 @@ Planned features and improvements:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-This is a personal website, but suggestions and bug reports are welcome!
+Suggestions and bug reports are welcome.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/improvement`)
@@ -613,7 +613,7 @@ This is a personal website, but suggestions and bug reports are welcome!
 
 ---
 
-## 📄 License
+## License
 
 © 2026 Ann Safo. All rights reserved.
 
@@ -621,19 +621,19 @@ The content of this website (text, images, and blog posts) is proprietary. The c
 
 ---
 
-## 👤 Author
+## Author
 
 **Ann Safo, B.S.**
 - PhD Student in Molecular, Cellular and Integrative Biosciences
 - Pennsylvania State University
-- 📧 ays6029@psu.edu
-- 💼 [LinkedIn](https://linkedin.com/in/ann-safo-b17b03252)
-- 🐙 [GitHub](https://github.com/annsafo)
-- 🌐 [Website](https://annyaa.github.io/cv-repo/)
+- Email: ays6029@psu.edu
+- [LinkedIn](https://linkedin.com/in/ann-safo-b17b03252)
+- [GitHub](https://github.com/annsafo)
+- [Website](https://annyaa.github.io/cv-repo/)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [Quarto](https://quarto.org/) by Posit
 - Hosted on [GitHub Pages](https://pages.github.com/)
@@ -641,7 +641,5 @@ The content of this website (text, images, and blog posts) is proprietary. The c
 - Theme: [Cosmo](https://bootswatch.com/cosmo/) from Bootswatch
 
 ---
-
-**⭐ If you find this project helpful, please consider giving it a star!**
 
 *Last updated: February 2026*
